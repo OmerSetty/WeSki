@@ -8,7 +8,7 @@ const APIsList = require('./APIsList.js');
 const union = require('lodash.union');
 app.use(bodyParse.json({ extended: true }));
 app.use(bodyParse.urlencoded({ extended: true }));
-app.use(cors({ credentials: true, origin: 'http://localhost:3001' }));
+app.use(cors({ credentials: true, origin: '*' }));
 
 app.get('/getResorts', async (req, res) => {
   const query = req.query;

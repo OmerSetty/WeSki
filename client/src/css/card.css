@@ -1,0 +1,64 @@
+.hotelName {
+  margin: 0;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 145%;
+  color: #000F33;
+}
+
+.rating {
+  margin: 0;
+}
+
+.rating-img {
+  margin-right: 2px;
+}
+
+.location-details {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 160%;
+  letter-spacing: 0.01em;
+  color: #525D7A;
+  margin-top: 4px;
+  margin-bottom: 0px;
+}
+
+.card-icon {
+  padding-right: 5px;
+  vertical-align: middle;
+}
+
+.horizontal-line {
+  border: 1px solid #E0E3EB;
+  margin-top: 30px;
+}
+
+.price {
+  margin: 0px;
+  text-align: right;
+}
+
+.actual-price {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 145%;
+  text-align: right;
+  color: #000F33;
+}
+
+.per-person {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 160%;
+  letter-spacing: 0.01em;
+  color: #525D7A;
+}
+
+.MuiCardContent-root {
+  padding-bottom: 0px;
+}

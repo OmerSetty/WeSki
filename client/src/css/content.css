@@ -1,0 +1,28 @@
+.content {
+  height: 100%;
+}
+
+.headers {
+  padding-top: 20px;
+  padding-left: 40px;
+}
+
+.main-header {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 145%;
+  letter-spacing: -0.005em;
+  color: #000000;
+  margin-bottom: 0px;
+}
+
+.sub-header {
+  margin-top: 0px;
+  margin-bottom: 30px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #525D7A;
+}

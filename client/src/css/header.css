@@ -1,0 +1,37 @@
+.header {
+  background-color: #FFFFFF;
+  display: flex;
+  padding: 17px 40px 18px 40px;
+}
+
+.logo {
+  width: 126px;
+  height: 20px;
+  margin-right: 78px;
+
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.search-button {
+  color: #1F5CF1;
+  background-color: #FFFFFF;
+  border: 1px solid #1F5CF1;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0.005em;
+  border-radius: 8px;
+  width: 112px;
+  height: 40px;
+  border-radius: 8px;
+}
+
+.date-picker {
+  width: 288.67px;
+  height: 40px;
+  border: 1px solid #C2C8D6;
+  border-radius: 8px;
+  margin-right: 10px;
+}
